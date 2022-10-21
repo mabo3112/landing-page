@@ -16,8 +16,6 @@ body {
     display: flex;
     justify-content: space-between;
     margin: 20px 300px 90px 300px;
-    
-
 
 }
 
@@ -80,8 +78,6 @@ body {
 
 }
 
-
-
 .information-header-text {
     font-size: 36px;
     font-weight: 800;
@@ -113,8 +109,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    
-    
+        
 }
 
 .quote-harbor {
@@ -156,7 +151,6 @@ body {
 .cta-text {
     color: #F9FAF8;
 
-
 }
 
 .cta-button {
@@ -176,6 +170,7 @@ body {
     background-color: #24539e;
 
 }
+
 .footer {
     background-color: #1F2937;
     height: 100px;
